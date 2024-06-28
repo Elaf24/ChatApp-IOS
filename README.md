@@ -66,9 +66,9 @@
     <li><a href="#about">About The Project</a></li>
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#installation-guide">Installation Guide</a></li>
-    <li><a href="#usage">Usage</a></li>
+
     <li><a href="#result">Result</a></li>
-    <li><a href="#front-end">Front End</a></li>
+
   </ol>
 </details>
 
@@ -120,43 +120,13 @@ FlashChat is an IOS app that lets people chat in realtime.
 1.Clone the repository:
 
   ```sh
-https://github.com/Elaf24/Vehicle-Detection-Speed-Estimation.git
+https://github.com/Elaf24/ChatApp.git
   ```
 
 
 
-2.Go to the cloned folder
-  ```sh
-cd YOLOv8_Segmentation_DeepSORT_Object_Tracking
-  ```
-2.Go to the cloned folder
-  ```sh
-cd YOLOv8_Segmentation_DeepSORT_Object_Tracking
-  ```
-3.Install the Dependencies
-  ```sh
-pip install -e '.[dev]'
+2.NOTE: you need to set up a google Firebase account to run the app and add the GoogleService-info.plist to the project (now in .gitignore) :no_entry:
 
-  ```
-4.setting the directory
-  ```sh
-cd ultralytics/yolo/v8/segment
-
-  ```
-5.Downloading the DeepSORT Files From The Google Drive
-  ```sh
-
-https://drive.google.com/drive/folders/1kna8eWGrSfzaR6DtNJ8_GchGgPMv3VC8?usp=sharing
-
-  ```
-
-5.Run the code with mentioned command:
-For yolov8 segmentation + Tracking
-  ```sh
-
-python predict.py model=yolov8x-seg.pt source="test1.mp4"
-
-  ```
 
 
 
@@ -166,43 +136,23 @@ python predict.py model=yolov8x-seg.pt source="test1.mp4"
 
 
 <!-- USAGE EXAMPLES -->
-## Usage :bell:
- <p align="right">(<a id="usage" href="#readme-top">back to top</a>)</p>
 
-1.To start the flask app
-  
-```sh
-
-python ultralytics\yolo\v8\segment\app.py
-
- ```
-2.Open your web browser and go to 
-
-```sh
-http://127.0.0.1:5000
- ```
-
-3.Upload a video that is in mp4 format
 
 
 
 <!-- ROADMAP -->
 ## Result :film_projector:
-<p align="right">(<a id=""result href="#readme-top">back to top</a>)</p>
-
-![final (1)](https://github.com/Elaf24/Vehicle-Detection-Speed-Estimation/assets/110555263/b1bf6474-1466-4f02-afa2-26aaa9d7d24e)
+![chat app](https://github.com/Elaf24/ChatApp/assets/110555263/73e99e8b-3171-4b10-be3a-391b4769427a)
 
 
 
 
 
 
-<!-- CONTRIBUTING -->
-## Front End :camera:
-<p align="right">(<a id="front-end" href="#readme-top">back to top</a>)</p>
-<img src="https://github.com/Elaf24/Vehicle-Detection-Speed-Estimation/assets/110555263/66e14b6d-e10f-4851-8f5e-c36bb5c0c8ea" >
-<img src="https://github.com/Elaf24/Vehicle-Detection-Speed-Estimation/assets/110555263/d49f9553-5373-422e-828a-16a1a2b6e041">
-<img src="https://github.com/Elaf24/Vehicle-Detection-Speed-Estimation/assets/110555263/7e342620-0978-4eb5-992c-267f03a288cd">
+
+
+
+
 
 
 
