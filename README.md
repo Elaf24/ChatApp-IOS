@@ -66,7 +66,6 @@
     <li><a href="#about">About The Project</a></li>
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#installation-guide">Installation Guide</a></li>
-
     <li><a href="#result">Result</a></li>
 
   </ol>
