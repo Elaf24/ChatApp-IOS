@@ -119,7 +119,7 @@ FlashChat is an IOS app that lets people chat in realtime.
 1.Clone the repository:
 
   ```sh
-https://github.com/Elaf24/ChatApp.git
+https://github.com/Elaf24/ChatApp-IOS.git
   ```
 
 
