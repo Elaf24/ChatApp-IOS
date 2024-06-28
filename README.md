@@ -31,7 +31,9 @@
 <br />
 <div align="center">
 <!--   <a href="https://github.com/othneildrew/Best-README-Template"> -->
-    <img src="https://github.com/Elaf24/ChatApp/assets/110555263/f9fc69e4-8353-41f6-a6cf-525c2f0a3bad" height="400" width="600">
+    <img src="https://github.com/Elaf24/ChatApp/assets/110555263/716c983c-aef6-48e6-ad97-d0a05de89f34" height="400" width="400">
+    
+
 
 
 
@@ -39,7 +41,7 @@
 
   </a>
 
-  <h3 align="center">VELOCITY</h3>
+  <h3 align="center">Flash Chat</h3>
 
   <p align="center">
 <!--     An awesome README template to jumpstart your projects! -->
@@ -76,8 +78,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project :bulb:
 <p align="right">(<a id="about" href="#readme-top">back to top</a>)</p>
-This project utilizes the YOLOv8 model to estimate vehicle speed and detect vehicles. Trained on data from RoboFlow using Google Colab, the application's frontend is built with the Flask framework. It can count vehicles, categorize them , store this information, and estimate the speed of detected vehicles.
-
+FlashChat is an IOS app that lets people chat in realtime.
 
 
 
@@ -86,13 +87,8 @@ This project utilizes the YOLOv8 model to estimate vehicle speed and detect vehi
 ## Built With  :hammer_and_wrench:
 <p align="right">(<a id= "built-with" href="#readme-top">back to top</a>)</p>
  
-  <img src= "https://github.com/Elaf24/Vehicle-Detection-Speed-Estimation/assets/110555263/f52806dc-cde1-4823-9fc7-648d977d4b87" height="40" width="40">
-  <img src="https://github.com/Elaf24/Vehicle-Detection-Speed-Estimation/assets/110555263/9f0fd0a1-e1fa-46d4-aa1c-57cffb4914e7" height="40" width="40">
-  <img src="https://github.com/Elaf24/Vehicle-Detection-Speed-Estimation/assets/110555263/c89b718f-b510-4b7b-a6d1-53f53f228bdb" height="40" width="40">
-  <img src="https://github.com/Elaf24/Vehicle-Detection-Speed-Estimation/assets/110555263/72f3c2f8-7742-4c8a-ab01-94b8271e52f3" height="40" width="40">
-  <img src="https://github.com/Elaf24/Vehicle-Detection-Speed-Estimation/assets/110555263/56e3fd86-c043-4ba3-be09-c17a88561299" height="40" width="40">
-<img src="https://github.com/Elaf24/Vehicle-Detection-Speed-Estimation/assets/110555263/4626116d-7b02-4473-88d3-63591eeca779" height="40" width="40">
-<img src="https://github.com/Elaf24/Vehicle-Detection-Speed-Estimation/assets/110555263/2cee0af7-b0e5-449e-8766-f46244cd8373"height="40" width="80">
+<img src="https://github.com/Elaf24/ChatApp/assets/110555263/d28603e7-a713-4555-906e-c2b3c76648c3" height=40 width=40>
+<img src="https://github.com/Elaf24/ChatApp/assets/110555263/700e35b3-edca-4c92-a764-57926d43034e" height=40 width=40>
 
 
 
@@ -104,13 +100,14 @@ This project utilizes the YOLOv8 model to estimate vehicle speed and detect vehi
 
 
 
-* **YOLOv8** for vehicle detection and speed estimation
-* **RoboFlow** for dataset 
-* **Flask** for the web framework
 
-*  **Python** for backend development
-*  **HTML/CSS** for frontend design
-  * **Collab** for model training
+
+
+
+* **Firebase** for  database
+* **Swift** for backend
+* **SwifUI** for frontend
+
 
 
 
