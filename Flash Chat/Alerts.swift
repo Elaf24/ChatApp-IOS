@@ -1,9 +1,4 @@
-//
-//  Alerts.swift
-//  Flash Chat
-//
-//  Created by Giulio Gola on 10/09/2019.
-//
+
 
 import Foundation
 import UIKit

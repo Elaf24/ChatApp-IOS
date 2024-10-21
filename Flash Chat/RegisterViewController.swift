@@ -1,7 +1,4 @@
-//
-//  RegisterViewController.swift
-//  Flash Chat
-//
+
 
 import UIKit
 import Firebase

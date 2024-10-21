@@ -1,7 +1,4 @@
-//
-//  Message.swift
-//  Flash Chat
-//
+
 
 struct Message {
     

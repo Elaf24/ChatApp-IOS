@@ -1,7 +1,3 @@
-//
-//  WelcomeViewController.swift
-//  Flash Chat
-//
 
 import UIKit
 class WelcomeViewController: UIViewController {
